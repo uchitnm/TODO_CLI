@@ -1,0 +1,26 @@
+[
+  {
+    "title": "task 1",
+    "description": "task 1",
+    "deadline": "2025-06-03",
+    "priority": 3,
+    "mood_required": "creative",
+    "effort": "Medium",
+    "difficulty": "Medium",
+    "energy_required": "Medium",
+    "completed": false,
+    "status": "Not Started"
+  },
+  {
+    "title": "T2",
+    "description": "T2",
+    "deadline": "2025-05-26 17:00",
+    "priority": 2,
+    "mood_required": "relaxed",
+    "effort": "Medium",
+    "difficulty": "Medium",
+    "energy_required": "Medium",
+    "completed": false,
+    "status": "Not Started"
+  }
+]
